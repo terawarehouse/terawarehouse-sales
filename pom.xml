@@ -9,7 +9,7 @@
 		<version>2.2.0.BUILD-SNAPSHOT</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.broodcamp</groupId>
+	<groupId>com.terawarehouse</groupId>
 	<artifactId>terawarehouse-sales</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>terawarehouse-sales</name>
